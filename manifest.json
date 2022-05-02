@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Lily Pichu Themed Colours",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center bottom"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat-x"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(255, 238, 238)",
+      "toolbar_text": "rgb(168, 99, 115)",
+      "frame": "rgb(255, 199, 212)",
+      "tab_background_text": "rgb(168, 99, 115)",
+      "toolbar_field": "rgb(255, 187, 187)",
+      "toolbar_field_text": "rgb(168, 99, 115)",
+      "tab_line": "rgb(168, 99, 115)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(168, 99, 115)",
+      "tab_loading": "rgb(168, 99, 115)"
+    }
+  }
+}
